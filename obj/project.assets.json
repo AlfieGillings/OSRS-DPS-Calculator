@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alfie Gillings\\Documents\\VS Projects\\C#\\OSRS DPS Calculator\\OSRS DPS Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Alfie Gillings\\Documents\\VS Projects\\C#\\OSRS-DPS-Calculator\\OSRS DPS Calculator.csproj",
       "projectName": "OSRS DPS Calculator",
-      "projectPath": "C:\\Users\\Alfie Gillings\\Documents\\VS Projects\\C#\\OSRS DPS Calculator\\OSRS DPS Calculator.csproj",
+      "projectPath": "C:\\Users\\Alfie Gillings\\Documents\\VS Projects\\C#\\OSRS-DPS-Calculator\\OSRS DPS Calculator.csproj",
       "packagesPath": "C:\\Users\\Alfie Gillings\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alfie Gillings\\Documents\\VS Projects\\C#\\OSRS DPS Calculator\\obj\\",
+      "outputPath": "C:\\Users\\Alfie Gillings\\Documents\\VS Projects\\C#\\OSRS-DPS-Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

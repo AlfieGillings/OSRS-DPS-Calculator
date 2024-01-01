@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("OSRS DPS Calculator")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2aa5d04f1620a6597570a1cb2d338921f26a0cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("OSRS DPS Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OSRS DPS Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

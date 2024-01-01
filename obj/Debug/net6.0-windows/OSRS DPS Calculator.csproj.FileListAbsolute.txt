@@ -1,0 +1,18 @@
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\bin\Debug\net6.0-windows\OSRS DPS Calculator.exe
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\bin\Debug\net6.0-windows\OSRS DPS Calculator.deps.json
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\bin\Debug\net6.0-windows\OSRS DPS Calculator.runtimeconfig.json
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\bin\Debug\net6.0-windows\OSRS DPS Calculator.dll
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\bin\Debug\net6.0-windows\OSRS DPS Calculator.pdb
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\obj\Debug\net6.0-windows\OSRS DPS Calculator.csproj.GenerateResource.cache
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\obj\Debug\net6.0-windows\OSRS DPS Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\obj\Debug\net6.0-windows\OSRS DPS Calculator.AssemblyInfoInputs.cache
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\obj\Debug\net6.0-windows\OSRS DPS Calculator.AssemblyInfo.cs
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\obj\Debug\net6.0-windows\OSRS DPS Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\obj\Debug\net6.0-windows\OSRS DPS Calculator.dll
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\obj\Debug\net6.0-windows\refint\OSRS DPS Calculator.dll
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\obj\Debug\net6.0-windows\OSRS DPS Calculator.pdb
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\obj\Debug\net6.0-windows\OSRS DPS Calculator.genruntimeconfig.cache
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\obj\Debug\net6.0-windows\ref\OSRS DPS Calculator.dll
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\obj\Debug\net6.0-windows\OSRS DPS Calculator.sourcelink.json
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\obj\Debug\net6.0-windows\OSRS_DPS_Calculator.Main.resources
+C:\Users\Alfie Gillings\Documents\VS Projects\C#\OSRS-DPS-Calculator\obj\Debug\net6.0-windows\OSRS_DPS_Calculator.Properties.Resources.resources
